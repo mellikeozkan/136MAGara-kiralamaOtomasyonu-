@@ -1,0 +1,11 @@
+C:\Users\MONSTER\source\repos\MAGarackiralama\bin\Debug\MAGarackiralama.exe.config
+C:\Users\MONSTER\source\repos\MAGarackiralama\bin\Debug\MAGarackiralama.exe
+C:\Users\MONSTER\source\repos\MAGarackiralama\bin\Debug\MAGarackiralama.pdb
+C:\Users\MONSTER\source\repos\MAGarackiralama\obj\Debug\MAGarackiralama.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\MAGarackiralama\obj\Debug\MAGarackiralama.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\MAGarackiralama\obj\Debug\MAGarackiralama.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\MAGarackiralama\obj\Debug\MAGarackiralama.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\MAGarackiralama\obj\Debug\MAGarackiralama.exe
+C:\Users\MONSTER\source\repos\MAGarackiralama\obj\Debug\MAGarackiralama.pdb
+C:\Users\MONSTER\Desktop\MAGarackiralama\obj\Debug\MAGarackiralama.exe
+C:\Users\MONSTER\Desktop\MAGarackiralama\obj\Debug\MAGarackiralama.pdb
